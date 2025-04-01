@@ -15,7 +15,8 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginTop="20dp"
-        android:text="@string/meal_plan"
+        android:text="@string/tasty_mealz"
+        android:textColor="#FF0000"
         android:textAlignment="center"
         android:textSize="25sp"
         android:textStyle="bold" />
@@ -59,7 +60,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:backgroundTint="#A0522D"
+        android:backgroundTint="#FF0000"
         android:insetLeft="55dp"
         android:insetRight="55dp"
         android:text="@string/choose_meal" />
@@ -69,7 +70,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="180dp"
-        android:backgroundTint="#A0522D"
+        android:backgroundTint="#FF0000"
         android:insetLeft="55dp"
         android:insetRight="55dp"
         android:text="Clear"
@@ -81,7 +82,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:backgroundTint="#A0522D"
+        android:backgroundTint="#FF0000"
         android:insetLeft="55dp"
         android:insetRight="55dp"
         android:text="@string/exit" />
