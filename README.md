@@ -9,7 +9,8 @@
  ##Links
 
 - GitHub Repository Link: https://github.com/ST10473173/Meal-App
-- YouTube Video Link: 
+- YouTube Video Link: https://www.youtube.com/watch?v=u8B3rSNzP3Y&authuser=0 
+
 
 ##Project Overview
 
@@ -79,16 +80,19 @@ The workflow ensures that my project is automatically built and tested every tim
 
 
 
+![Screenshot 2025-04-02 191036](https://github.com/user-attachments/assets/b57d750d-6871-4778-b2bc-51c3a868a0f4)
 
 
 
 #When the user does not enter “time of day” the app will prompt the user to input “time of day”:
 
 
+![Screenshot 2025-04-02 191116](https://github.com/user-attachments/assets/b04b604a-565a-4f32-9419-4ad233cea942)
 
 
 #When the user spells the word wrong it will prompt them and say “Invalid time of day”:
 
+![Screenshot 2025-04-02 191145](https://github.com/user-attachments/assets/5097c38e-677b-4217-b52c-0853a7535747)
 
 
 
@@ -125,11 +129,11 @@ Link: W3schools.com (no date) W3Schools Online Web Tutorials. Available at: http
 
 Link: Learn Kotlin from scratch (no date) Coding Blocks Online. Available at: https://online.codingblocks.com/courses/kotlin-basics (Accessed: 27 March 2025). 
 
-##3List Of Figures
+##List Of Figures
 
-Figure 1:
+Figure 1: Screenshot of the apps home screen.
 
-Figure 2:
+Figure 2: Screenshot of the user profile screen.
 
 ##Disclosure Of AI Usage In My Assignment
 
