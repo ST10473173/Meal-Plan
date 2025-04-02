@@ -14,7 +14,7 @@
 
 ##Project Overview
 
-The “ Meal Suggestion App” is a Kotlin-based Android application designed to simplify meal decisions by suggesting dishes based on the time of day (Breakfast, Lunch, or Dinner). Users select a mealtime via an intuitive UI, and the app instantly generates a fun, emoji-accompanied suggestion using conditional logic (`if`/`when` statements). Developed in Android Studio, the app prioritizes accessibility with clear visuals and screen-reader compatibility. Hosted on “GitHub” , the project includes version control and “GitHub Actions” for automated testing and builds, ensuring reliability. This lightweight, user-friendly tool solves indecision while demonstrating Kotlin fundamentals, CI/CD workflows, and mobile development best practices all in a single, functional package.
+The “ Meal Suggestion App” is a Kotlin-based Android application designed to simplify meal decisions by suggesting meals based on the time of day (morning,mid-morning, afternoon, afternoon snack,  dinner, or after dinner). Hera can select a mealtime in the UI, and the app will suggest meals using conditional logic `when` statements. Made in Android Studio, the app works on accessibility with clear visuals and screen-reader compatibility. Hosted on “GitHub” , the project includes version control and “GitHub Actions” for automated testing and builds, ensuring reliability. This user-friendly tool solves indecision while demonstrating Kotlin fundamentals, CI/CD workflows, and mobile development best practices all in a single, functional package.
 
 
 ##Purpose and Features
@@ -27,9 +27,9 @@ The “ Meal Suggestion App” is a Kotlin-based Android application designed to
 
 -Time Based Meal Suggestion
 
--Simple, Fast and Automatic UI
+- Fast and Automatic User Interface
 
--Fun and Engaging Elements
+-Fun and easy
 
 -Reset or Clear Button 
 
@@ -49,7 +49,7 @@ The “ Meal Suggestion App” is a Kotlin-based Android application designed to
 
 -Error Handling: If time of day is not entered the app should show a prompt to the user saying “Enter Time Of Day eg.(Morning).
 
-#4.Branding and Theme
+#4.Logo and Theme
 
 -App name: Short and catch name 
 
@@ -121,7 +121,8 @@ Link: 3:42 Kotlin when statement -- Kotlin Tutorial [Part 7] https://youtu.be/Sb
 
 ##Future Enhancements
 
-Future Upgrades - Transform the meal suggestion app into a personalized, interactive tool by adding user profiles (dietary preferences/favorites), a "Surprise Me!" randomiser, and weather-based suggestions. Enhance visuals with food photos and animations, or integrate voice commands for hands-free use. Add social sharing, gamification (streaks/badges), and multilingual support. For scalability, use Firebase for cloud data and an admin panel. Optional monetization includes ad-free premium features or restaurant partnerships. Prioritize accessibility with dark mode and screen-reader improvements. This roadmap balances fun, functionality, and growth.
+Future Upgrades - I would add images linking to the food that would be suggested. I would also like to make the app work with fast food companies and Hera could be able to order food within the app.  
+
 
 ##References 
 
