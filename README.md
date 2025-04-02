@@ -8,7 +8,7 @@
 
  ##Links
 
-- GitHub Repository Link: 
+- GitHub Repository Link: https://github.com/ST10473173/Meal-Plan 
 - YouTube Video Link: https://www.youtube.com/watch?v=u8B3rSNzP3Y&authuser=0 
 
 
