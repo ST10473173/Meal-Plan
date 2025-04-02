@@ -133,7 +133,7 @@ Link: Learn Kotlin from scratch (no date) Coding Blocks Online. Available at: ht
 
 Figure 1: Screenshot of the apps home screen.
 
-Figure 2: Screenshot of the user profile screen.
+Figure 2: Screenshot of the AI chats.
 
 ##Disclosure Of AI Usage In My Assignment
 
