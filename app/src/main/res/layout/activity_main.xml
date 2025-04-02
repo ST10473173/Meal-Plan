@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
     android:layout_width="match_parent"
@@ -15,11 +14,12 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginTop="20dp"
-        android:text="@string/tasty_mealz"
+        android:text="Tasty Mealz"
         android:textColor="@color/black"
         android:textAlignment="center"
         android:textSize="25sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        tools:ignore="HardcodedText"/>
 
     <EditText
         android:id="@+id/timeOfDay"
@@ -31,9 +31,10 @@
         android:ems="10"
         android:inputType="text"
         android:textSize="20sp"
-        android:hint="@string/enter_time_of_day_eg_morning"
+        android:hint="Enter Time Of Day eg.(morning)"
         android:textAlignment="center"
-        android:text="" />
+        android:text=""
+        tools:ignore="HardcodedText"/>
 
     <TextView
         android:id="@+id/textView2"
@@ -44,7 +45,8 @@
         android:textColor="#000000"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:text="@string/your_meal_options_are" />
+        android:text="Your Meal Options Are"
+        tools:ignore="HardcodedText"/>
 
 
     <TextView
@@ -66,7 +68,8 @@
         android:insetLeft="55dp"
         android:layout_gravity="center"
         android:insetRight="55dp"
-        android:text="@string/choose_meal" />
+        android:text="Choose Meal"
+        tools:ignore="HardcodedText"/>
 
     <Button
         android:id="@+id/btnClr"
@@ -88,7 +91,8 @@
         android:backgroundTint="@color/black"
         android:insetLeft="55dp"
         android:insetRight="55dp"
-        android:text="@string/exit" />
+        android:text="Exit"
+        tools:ignore="HardcodedText"/>
 
 
 
